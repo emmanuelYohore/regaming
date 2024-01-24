@@ -30,7 +30,7 @@ if (isset($_POST['valider'])) {
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>Connexion et inscription </title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-   <link rel="stylesheet" href="connexion.css">
+   <link rel="stylesheet" href="siteTP/connexion.css">
 </head>
 
 <body class="bg-light">
